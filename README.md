@@ -2,6 +2,8 @@
 
 This project demonstrates how to use the YOLOv10 object detection model to detect brain tumors in medical images. It leverages the Ultralytics YOLO library for model training and inference, and Gradio for creating an interactive user interface.
 
+![Demo Image](assets/tumorDemo.png)
+
 ## Requirements
 
 To run this project, you'll need the following libraries:
